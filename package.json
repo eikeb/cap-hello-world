@@ -1,0 +1,21 @@
+{
+  "name": "cap-hello-world",
+  "version": "1.0.0",
+  "description": "Hello World application using the SAP Cloud Application Programming model",
+  "scripts": {
+    "start": "cds serve world.cds",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eikeb/cap-hello-world.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eikeb/cap-hello-world/issues"
+  },
+  "homepage": "https://github.com/eikeb/cap-hello-world#readme",
+  "dependencies": {
+    "@sap/cds": "^5.1.5"
+  }
+}
