@@ -15,7 +15,5 @@
     "url": "https://github.com/eikeb/cap-hello-world/issues"
   },
   "homepage": "https://github.com/eikeb/cap-hello-world#readme",
-  "dependencies": {
-    "@sap/cds": "^5.1.5"
-  }
+  "dependencies": {}
 }
